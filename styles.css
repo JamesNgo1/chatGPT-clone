@@ -13,7 +13,7 @@ body{
     background-color: #E3F2FD;
     
 }
-
+/*Set the container*/
 .chatbot{
     background-color:#fff;
     position:fixed;
@@ -24,12 +24,13 @@ body{
     box-shadow: 0 0 128px 0 rgba(0,0,0,0.1) , 0 32px 64px -48px rgba(0,0,0,0.5);
 }
 
+/*set up the header block */
 .chatbot header{
     background-color:#724ae8;
     padding: 16px 0;
     text-align:center;
 }
-
+/*more setting towards the heading inside the header block */
 .chatbot header h2{
     color: #fff;
     font-size:1.4rem;
